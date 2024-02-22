@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Juan Pablo 👋
 
 <!--
 **Pablo2467/Pablo2467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Estoy en las materias
  ** Calculo Multivariado **
  ** Etica Profesional **
 
-## Contacto
+## Contacto:
 
 Correo electronico: [jpvalverde-2023a@corhuila.edu.co] (mail to:jpvalverde-2023a@corhuila.edu.co)
 
