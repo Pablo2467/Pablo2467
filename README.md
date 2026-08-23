@@ -1,5 +1,6 @@
 <!-- CONFIG -->
-##**FULL_NAME=Pablo TuNombreCompleto**
+##**FULL_NAME=Juan Pablo Valverde Barreiro**
+
 ##**GITHUB_USER=Pablo2467**
 <!-- /CONFIG -->
 
