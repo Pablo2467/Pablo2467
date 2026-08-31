@@ -4,5 +4,21 @@
 ##**GITHUB_USER=Pablo2467**
 <!-- /CONFIG -->
 
-# Presentación
-¡Hola! Mi nombre es Pablo y este es mi perfil de GitHub para el curso de Desarrollo Fullstack.
+## Sobre mi 👤
+Soy un Ingeniero de sistemas, con especial interés en el desarrollo Fullstack. Me motiva entender cómo se conecta cada capa de una aplicación desde la interfaz que ve el usuario hasta la base de datos que sostiene todo y disfruto el proceso de ir de un diseño en papel a un producto funcional.
+
+Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bases de datos relacionales y buenas prácticas de control de versiones con Git y GitHub.
+
+## 🛠️ Tecnologías con las que trabajo
+
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Backend / Bases de datos:** Java, Spring Boot, Python, PostgreSQL, MySQL
+- **Herramientas:** Git, GitHub, VS Code, IntelliJ IDEA, Docker
+
+## 🎯 Objetivos
+
+Consolidar una base sólida como desarrollador Fullstack, participando en proyectos reales que me permitan aplicar lo aprendido en el aula y seguir creciendo técnicamente.
+
+## 📫 Contacto
+
+- GitHub: [@Pablo2467](https://github.com/Pablo2467)
