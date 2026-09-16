@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Juan Pablo Valverde Barreiro
+# Juan Pablo Valverde Barreiro
 
 📧 jpvalverde-2023a@corhuila.edu.co
 
