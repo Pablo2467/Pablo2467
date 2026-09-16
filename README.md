@@ -1,8 +1,9 @@
-<!-- CONFIG -->
+<!--
+CONFIG 
 ##**FULL_NAME=Juan Pablo Valverde Barreiro**
 
 ##**GITHUB_USER=Pablo2467**
-<!-- /CONFIG -->
+CONFIG-->
 
 ## Sobre mi 👤
 Soy Ingeniero de sistemas, con especial interés en el desarrollo Fullstack. Me motiva entender cómo se conecta cada capa de una aplicación desde la interfaz que ve el usuario hasta la base de datos que sostiene todo y disfruto el proceso de ir de un diseño en papel a un producto funcional.
