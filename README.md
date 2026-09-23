@@ -80,25 +80,34 @@ Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bas
       </p>
       <p align="center">
         <a href="https://github.com/Pablo2467/SaaSGranizado"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="https://github.com/Pablo2467/SaaSGranizado"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://saa-s-granizado.vercel.app"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       </p>
-      <p align="center">Breve descripción del problema que resuelve este proyecto y las tecnologías clave usadas.</p>
+      <p align="center">Sistema SaaS multi-tenant que resuelve la gestión operativa completa de una granizadera: control de inventario en tiempo real con descuento y reposición automática de stock según el flujo de pedidos, autorización robusta por roles aplicada a nivel de API (JWT + @PreAuthorize, no solo en el frontend) y reportes de ganancias segmentados por periodo y producto para tomar decisiones basadas en datos. Arquitectura desacoplada con backend en Spring Boot + PostgreSQL y frontend en React, pensada para escalar a múltiples empresas sin mezclar datos entre ellas.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Nombre del proyecto 2</h3>
+      <h3 align="center">GymFlow</h3>
       <p align="center">
-        <img src="URL_DE_TU_IMAGEN_2" width="100%" alt="Proyecto 2"/>
+        <img src="https://zeelproject.com/uploads/posts/2023-11-24/45170_image3d_9.webp" width="100%" alt="Proyecto 2"/>
       </p>
       <p align="center">
-        <a href="URL_DEL_REPO_2"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="URL_DEMO_2"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://github.com/Pablo2467/Gimnasio-completo"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://gimnasio-completo.vercel.app"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       </p>
-      <p align="center">Breve descripción del problema que resuelve este proyecto y las tecnologías clave usadas.</p>
+      <p align="center">Sistema de gestión para gimnasios con foco en ingeniería sólida: consistencia transaccional en ventas (sin sobreventa bajo concurrencia), auditoría automática vía AOP, y reglas de negocio explícitas (membresías activadas solo tras pago confirmado, precios congelados en cada venta). Backend en arquitectura por capas organizada package-by-feature, seguridad con JWT + control de acceso por rol a nivel de método, y documentación de API autogenerada con OpenAPI.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">AyudaYa</h3>
+      <p align="center">
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/024/543/798/small/organ-donation-charity-volunteer-giving-and-blood-concept-hand-holding-heart-into-donate-box-for-support-poor-homeless-csr-social-responsibility-world-heart-and-mental-health-day-photo.jpg" width="100%" alt="Proyecto 2"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Pablo2467/hackathon-usco-DEVURITY"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://hackathon-usco-devurity.vercel.app"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      </p>
+      <p align="center">Plataforma de ayuda solidaria en tiempo real que conecta personas en necesidad con voluntarios y donantes cercanos vía geolocalización. Construido en 48h para el Hackathon DEVURITY-USCO: frontend React + TypeScript con capa de servicios desacoplada del backend (facilita migrar de API mock a base de datos real sin tocar la UI), despliegue independiente de frontend/backend (Vercel + Render) y entorno reproducible con Docker Compose.</p>
     </td>
   </tr>
 </table>
-
-> 💡 Reemplaza `URL_DE_TU_IMAGEN`, `URL_DEL_REPO` y `URL_DEMO` con las capturas y links reales de tus proyectos. Sube las capturas a la carpeta del repo (ej. `/assets`) o a un servicio como Imgur.
 
 ---
 
