@@ -113,12 +113,14 @@ Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pablo2467&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Estadísticas de GitHub"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo2467&layout=compact&theme=radical&hide_border=true" width="48%" alt="Lenguajes más usados"/>
+<img src="https://github-readme-stats-lipis.vercel.app/api?username=Pablo2467&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Estadísticas de GitHub"/>
+<img src="https://github-readme-stats-lipis.vercel.app/api/top-langs/?username=Pablo2467&layout=compact&theme=radical&hide_border=true" width="48%" alt="Lenguajes más usados"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablo2467&theme=radical&hide_border=true" width="60%" alt="Racha de contribuciones"/>
+<img src="https://streak-stats.demolab.com/?user=Pablo2467&theme=radical&hide_border=true" width="60%" alt="Racha de contribuciones"/>
 
 </div>
+
+---
 
 ---
 
