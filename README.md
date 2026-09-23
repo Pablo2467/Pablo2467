@@ -76,7 +76,7 @@ Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bas
     <td width="50%">
       <h3 align="center">Saas Granizado</h3>
       <p align="center">
-        <img src="URL_DE_TU_IMAGEN_1" width="100%" alt="Proyecto 1"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCShNcXbqioLH9gjzpd4IVKpXHHS_mRA60Y-cgV63GJ63raL0TDdtd5Lmk&s=10" width="100%" alt="Proyecto 1"/>
       </p>
       <p align="center">
         <a href="https://github.com/Pablo2467/SaaSGranizado"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
