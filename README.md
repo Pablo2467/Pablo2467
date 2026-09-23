@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Juan Pablo Valverde Barreiro 👋
 
-### Ingeniero de Sistemas | Full-Stack Developer 🚀
+### Ingeniero de Sistemas | Software Developer 🚀
 
 Transformo ideas en productos funcionales, desde la interfaz hasta la base de datos.
 
@@ -16,14 +16,14 @@ Transformo ideas en productos funcionales, desde la interfaz hasta la base de da
 
 ## 👨‍💻 Sobre mí
 
-Soy Ingeniero de Sistemas con especial interés en el desarrollo **Fullstack**. Me motiva entender cómo se conecta cada capa de una aplicación, desde la interfaz que ve el usuario hasta la base de datos que sostiene todo. Disfruto el proceso de llevar un diseño en papel a un producto funcional.
+Soy Ingeniero de Sistemas enfocado en el diseño de arquitecturas de software escalables y mantenibles. Me interesa especialmente cómo se estructuran los sistemas: separación de responsabilidades, patrones de diseño, y cómo cada decisión arquitectónica impacta el rendimiento y la escalabilidad a largo plazo. Disfruto descomponer problemas complejos en componentes simples y bien definidos.
 
 Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bases de datos relacionales y buenas prácticas de control de versiones con Git y GitHub.
 
 - 🔭 Actualmente trabajando en proyectos Full-Stack con **React** y **Spring Boot**
 - 🌱 Aprendiendo constantemente sobre arquitectura de software y bases de datos
-- 💬 Pregúntame sobre **JavaScript, Java, React o Python**
-- ⚡ Dato curioso: me encanta ir de un boceto en papel a una app terminada
+- 🧮 Fortalecer mi criterio para resolver problemas algorítmicos de forma eficiente
+- ⚙️ Interesado en el diseño de APIs REST bien estructuradas y normalización de bases de datos
 
 ---
 
@@ -34,6 +34,7 @@ Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bas
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -43,6 +44,7 @@ Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -72,13 +74,13 @@ Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bas
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Nombre del proyecto 1</h3>
+      <h3 align="center">Saas Granizado</h3>
       <p align="center">
         <img src="URL_DE_TU_IMAGEN_1" width="100%" alt="Proyecto 1"/>
       </p>
       <p align="center">
-        <a href="URL_DEL_REPO_1"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="URL_DEMO_1"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+        <a href="https://github.com/Pablo2467/SaaSGranizado"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/Pablo2467/SaaSGranizado"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
       </p>
       <p align="center">Breve descripción del problema que resuelve este proyecto y las tecnologías clave usadas.</p>
     </td>
