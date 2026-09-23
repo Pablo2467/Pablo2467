@@ -7,8 +7,7 @@
 Transformo ideas en productos funcionales, desde la interfaz hasta la base de datos.
 
 [![Gmail](https://img.shields.io/badge/Email-jpvalverde--2023a%40corhuila.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpvalverde-2023a@corhuila.edu.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([#](https://www.linkedin.com/in/pablo-valverde-dev/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-valverde-dev/)
 </div>
 
 ---
