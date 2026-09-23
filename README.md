@@ -1,28 +1,124 @@
 <div align="center">
 
-# Juan Pablo Valverde Barreiro
+# ¡Hola! Soy Juan Pablo Valverde Barreiro 👋
 
-📧 jpvalverde-2023a@corhuila.edu.co
+### Ingeniero de Sistemas | Full-Stack Developer 🚀
+
+Transformo ideas en productos funcionales, desde la interfaz hasta la base de datos.
+
+[![Gmail](https://img.shields.io/badge/Email-jpvalverde--2023a%40corhuila.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpvalverde-2023a@corhuila.edu.co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-## Sobre mi 👤
-Soy Ingeniero de sistemas, con especial interés en el desarrollo Fullstack. Me motiva entender cómo se conecta cada capa de una aplicación desde la interfaz que ve el usuario hasta la base de datos que sostiene todo y disfruto el proceso de ir de un diseño en papel a un producto funcional.
+## 👨‍💻 Sobre mí
+
+Soy Ingeniero de Sistemas con especial interés en el desarrollo **Fullstack**. Me motiva entender cómo se conecta cada capa de una aplicación, desde la interfaz que ve el usuario hasta la base de datos que sostiene todo. Disfruto el proceso de llevar un diseño en papel a un producto funcional.
 
 Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bases de datos relacionales y buenas prácticas de control de versiones con Git y GitHub.
 
+- 🔭 Actualmente trabajando en proyectos Full-Stack con **React** y **Spring Boot**
+- 🌱 Aprendiendo constantemente sobre arquitectura de software y bases de datos
+- 💬 Pregúntame sobre **JavaScript, Java, React o Python**
+- ⚡ Dato curioso: me encanta ir de un boceto en papel a una app terminada
+
+---
+
 ## 🛠️ Tecnologías con las que trabajo
 
-- **Frontend:** React, JavaScript, HTML5, Tailwind CSS, JavaScript
-- **Backend / Bases de datos:** Java, Spring Boot, Python, PostgreSQL, MySQL
-- **Herramientas:** Git, GitHub, VS Code, IntelliJ IDEA, Docker
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Bases de datos**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
 
 ## 🎯 Objetivos
 
-Consolidar una base sólida como desarrollador Fullstack, participando en proyectos reales que me permitan aplicar lo aprendido en el aula y seguir creciendo técnicamente.
+- 📈 Consolidar mis habilidades Full-Stack con proyectos reales
+- 🤝 Contribuir a proyectos open source
+- 💼 Conseguir mi primera experiencia profesional como desarrollador
+- 📚 Profundizar en arquitectura de software y buenas prácticas de diseño
 
-## 📫 Contacto
+---
 
-- GitHub: [@Pablo2467](https://github.com/Pablo2467)
+## 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Nombre del proyecto 1</h3>
+      <p align="center">
+        <img src="URL_DE_TU_IMAGEN_1" width="100%" alt="Proyecto 1"/>
+      </p>
+      <p align="center">
+        <a href="URL_DEL_REPO_1"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="URL_DEMO_1"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      </p>
+      <p align="center">Breve descripción del problema que resuelve este proyecto y las tecnologías clave usadas.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Nombre del proyecto 2</h3>
+      <p align="center">
+        <img src="URL_DE_TU_IMAGEN_2" width="100%" alt="Proyecto 2"/>
+      </p>
+      <p align="center">
+        <a href="URL_DEL_REPO_2"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="URL_DEMO_2"><img src="https://img.shields.io/badge/Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+      </p>
+      <p align="center">Breve descripción del problema que resuelve este proyecto y las tecnologías clave usadas.</p>
+    </td>
+  </tr>
+</table>
+
+> 💡 Reemplaza `URL_DE_TU_IMAGEN`, `URL_DEL_REPO` y `URL_DEMO` con las capturas y links reales de tus proyectos. Sube las capturas a la carpeta del repo (ej. `/assets`) o a un servicio como Imgur.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pablo2467&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Estadísticas de GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo2467&layout=compact&theme=radical&hide_border=true" width="48%" alt="Lenguajes más usados"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablo2467&theme=radical&hide_border=true" width="60%" alt="Racha de contribuciones"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 ¿Hablamos?
+
+[![Gmail](https://img.shields.io/badge/-jpvalverde--2023a%40corhuila.edu.co-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpvalverde-2023a@corhuila.edu.co)
+
+⭐️ Desde [Pablo2467](https://github.com/Pablo2467)
+
+</div>
