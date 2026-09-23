@@ -108,7 +108,18 @@ Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bas
 </table>
 
 ---
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Pablo2467&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Estadísticas de GitHub"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pablo2467&layout=compact&theme=radical&hide_border=true" width="48%" alt="Lenguajes más usados"/>
+
+<img src="https://streak-stats.demolab.com/?user=Pablo2467&theme=radical&hide_border=true" width="60%" alt="Racha de contribuciones"/>
+
+</div>
+
+---
 ---
 
 ---
@@ -117,7 +128,7 @@ Actualmente estoy profundizando mis conocimientos en desarrollo web moderno, bas
 
 ### 📫 ¿Hablamos?
 
-[![Gmail](https://img.shields.io/badge/-jpvalverde--2023a%40corhuila.edu.co-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpvalverde-2023a@corhuila.edu.co)
+[![Gmail](https://img.shields.io/badge/-jpvalverde--2023a%40corhuila.edu.co-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanpablobarreiro8@gmail.com)
 
 ⭐️ Desde [Pablo2467](https://github.com/Pablo2467)
 
