@@ -1,14 +1,13 @@
 <div align="center">
 
-# ¡Hola! Soy Juan Pablo Valverde Barreiro 👋
+# Juan Pablo Valverde Barreiro 
 
 ### Ingeniero de Sistemas | Software Developer 🚀
 
 Transformo ideas en productos funcionales, desde la interfaz hasta la base de datos.
 
 [![Gmail](https://img.shields.io/badge/Email-jpvalverde--2023a%40corhuila.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpvalverde-2023a@corhuila.edu.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([#](https://www.linkedin.com/in/pablo-valverde-dev/))
 
 </div>
 
